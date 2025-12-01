@@ -1,6 +1,6 @@
 """
 Closed Dependency Engine (CDE) – Core Mechanistic Implementation
-Author: Canan Bozkurt
+Author: Muhammed Ferit Duman
 Model: The Closed Dependency Engine for Social Complexity (CDE)
 Description:
     This module implements the core deterministic operators used in the CDE model:
